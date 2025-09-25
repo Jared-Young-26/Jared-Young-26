@@ -60,7 +60,7 @@ My mission is to bridge **cybersecurity and law enforcement**, using technology 
 ---
 
 ## 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/jared-young-cybersecurity-professional/))  
+- [LinkedIn](https://www.linkedin.com/in/jared-young-cybersecurity-professional/)  
 - [GitHub](https://github.com/Jared-Young-26)  
 - [ePortfolio](https://sites.google.com/kent.edu/jared-young/about-me)
 
