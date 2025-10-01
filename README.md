@@ -22,12 +22,15 @@ My mission is to bridge **cybersecurity and law enforcement**, using technology 
 ---
 
 ## 📂 Featured Projects
-- **🔎 Malware Sandbox Research**  
-  Designed controlled environments for reverse engineering and forensic training.  
-- **💡 Exploit & Payload Development**  
-  Custom PoCs exploring low-level attack vectors and evasion techniques.  
-- **📊 Security Knowledge Base**  
-  Documentation and tooling integrations to improve client understanding of endpoint security tools like ThreatLocker and CloudRadial.  
+
+- **🔬 Malware Analysis & Forensics Lab**  
+  Built controlled environments for **reverse engineering, dynamic malware testing, and forensic triage** to study trojans, rootkits, and ransomware safely.
+- **⚡ Exploit & Payload Engineering**  
+  Developed **custom proof-of-concepts (PoCs)** to explore vulnerabilities, memory corruption, and evasion techniques, with a focus on Windows internals and low-level payload design.
+- **📖 Security Knowledge Base & Integrations**  
+  Authored documentation and built integrations for **ThreatLocker and CloudRadial**, helping clients understand endpoint security controls and creating transparent educational resources for MSP environments.
+- **🌐 Full-Stack Security Dashboards (in progress)**  
+  Prototyping dashboards that combine **threat intel, forensic data, and OSINT automation** into visual tools for investigations.
 
 ---
 
