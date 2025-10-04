@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Jared Young
 
 💻 **Operations Engineer @ ThreatSpike Labs**  
-🔐 **Cybersecurity Researcher | Ethical Hacker | Forensic Analyst**  
-📚 **Focused on Malware Analysis, Exploit Development, and Digital Forensics**
+🔐 **Cybersecurity Researcher | Ethical Hacker | Forensic Analyst | AI Engineer**  
+📚 **Focused on Malware Analysis, Penetration Testing, Artificial Intelligence, and Digital Forensics**
 
 ---
 
 ## 🚀 About Me
-I specialize in **cybersecurity, penetration testing, and exploit research**, combining a background in **software engineering** with deep curiosity for offensive and defensive security. My passion lies in understanding and countering **malware, rootkits, bootkits, trojans, and spyware**—both through hands-on analysis and theoretical research.  
+I specialize in **cybersecurity, penetration testing, and exploit research**, combining a background in **software engineering** with deep curiosity for offensive and defensive security. My passion lies in understanding and countering **malware, rootkits, bootkits, trojans, and spyware**—both through hands-on analysis and theoretical research. I have also undertaken a serious interest and passion in how artificial intelligence can assist in every aspect of cybersecurity research and being used ethically to combat cyber crime world-wide. 
 
-My mission is to bridge **cybersecurity and law enforcement**, using technology to protect vulnerable communities and investigate digital crime.
+My mission is to bridge **cybersecurity, AI, and law enforcement**, using technology to protect vulnerable communities and investigate digital crime.
 
 ---
 
@@ -17,7 +17,7 @@ My mission is to bridge **cybersecurity and law enforcement**, using technology 
 - **Programming**: Python, Java, PowerShell, C/C++ (for exploit dev), Bash  
 - **Cybersecurity**: Penetration Testing, Reverse Engineering, Vulnerability Exploitation, Malware Analysis, Digital Forensics  
 - **Networking & IT**: VPNs, Intune/Autopilot, API Integrations, Windows Administration  
-- **Applied AI/ML**: Automation for threat detection, heuristic-driven search, OSINT workflows  
+- **Applied AI/ML**: Automation for threat detection, heuristic-driven search, OSINT workflows, classification, nerual nets
 
 ---
 
@@ -38,20 +38,25 @@ My mission is to bridge **cybersecurity and law enforcement**, using technology 
 - Advanced **Windows Defender/EDR evasion** (AMSI bypass, direct syscalls, ETW tampering)  
 - **Kernel-mode development** for rootkits and bootkits  
 - **Full-stack web development** for security dashboards and visualization  
-- **Forensic methodologies** for detecting stealth malware in modern environments  
+- **Forensic methodologies** for detecting stealth malware in modern environments
+- **Artificial Intellegence** for informed searches and classifying anomalous objects based on features  
 
 ---
 
 ## 🧑‍🎓 Certifications
 - CompTIA **Security+**, **CySA+**  
-- Pursuing **Pentest+**, **TCM Security certifications**, and **OSCP**  
+- Pursuing **Pentest+**, **TCM Security certifications**, and **OSCP**
+- Kent State **Master's of Science in Artificial Intelligence**
+- Kent State **Bachelor's of Technical and Applied Science** *Focus in Cybersecurity*
+- Lakeland Community College **Associate of Applied Business in Software Engineering** 
 
 ---
 
 ## 🎯 Goals
 - Expand exploit development knowledge into kernel and hypervisor layers  
 - Build forensic techniques for investigating rootkits and bootkits  
-- Apply technical expertise in **cybercrime investigations** with a focus on protecting at-risk populations  
+- Apply technical expertise in **cybercrime investigations** with a focus on protecting at-risk populations
+- Create automation platforms that integrate with AI and forensic activities  
 
 ---
 
