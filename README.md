@@ -44,11 +44,11 @@ My mission is to bridge **cybersecurity, AI, and law enforcement**, using techno
 ---
 
 ## 🧑‍🎓 Certifications
-- CompTIA **Security+**, **CySA+**  
-- Pursuing **Pentest+**, **TCM Security certifications**, and **OSCP**
+- CompTIA **Network+**, **Security+**, **CySA+**  
 - Kent State **Master's of Science in Artificial Intelligence**
 - Kent State **Bachelor's of Technical and Applied Science** *Focus in Cybersecurity*
-- Lakeland Community College **Associate of Applied Business in Software Engineering** 
+- Lakeland Community College **Associate of Applied Business in Software Engineering**
+- Pursuing **Pentest+**, **TCM Security certifications**, and **OSCP**
 
 ---
 
